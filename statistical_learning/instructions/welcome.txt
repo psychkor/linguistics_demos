@@ -1,0 +1,5 @@
+In this study you will first listen to an audio file that presents a words in a pseudo language. Please listen to the file to familiarize yourself with the sounds in this language.
+
+After listening to the training audio, you will be presented with test trials where you hear two sounds played back to back representing possible words in the language. One of them is a real word in the language. You will guess which of the two sounds represents a word in the pseudo language by pressing a key.
+
+Press the SPACE bar to begin listening to the training audio.
