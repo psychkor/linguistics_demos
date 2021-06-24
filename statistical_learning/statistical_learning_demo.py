@@ -23,7 +23,7 @@ from itertools import zip_longest
 from collections import OrderedDict
 
 # set to True or False to debug. Debug will skip training and do 2 test trials
-debug = True
+debug = False
 
 # setting to True will randomize the audio files. False will go in order.
 randomize = True
