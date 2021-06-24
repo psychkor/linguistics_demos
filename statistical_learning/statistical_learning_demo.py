@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # written by Tuan (Tony) Lam
 # version 1.0 - June 16, 2021
+# This was originally written to help me learn how to code in python.
+# It is the first linguistics demo I coded in python.
 """
 This module is designed as a demonstration of statistical learning from a
 pseudolanguage. The sound files were originally created by Carla Hudson Kam.
